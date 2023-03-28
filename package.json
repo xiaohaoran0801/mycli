@@ -1,10 +1,10 @@
 {
-  "name": "@slient.xiaohr/my-cli",
+  "name": "create-test",
   "version": "1.0.0",
   "description": "",
   "bin": {
-    "xhr-cli": "index.js",
-    "create-xhr-app": "index.js"
+    "create-app": "index.js",
+    "create-xhr": "index.js"
   },
   "type": "module",
   "scripts": {
