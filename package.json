@@ -19,5 +19,9 @@
     "download-git-repo": "^3.0.2",
     "ora": "^6.3.0",
     "prompts": "^2.4.2"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
